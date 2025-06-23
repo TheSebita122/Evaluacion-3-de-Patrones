@@ -36,6 +36,13 @@ Se requiere una estructura modular y extensible para este sea más facil de mane
 - **Por qué**: Este se utilizo porque era perfecto para recorrer una lista de mangas sin exponer la estructura internas de estos.
 - **Dónde**: MangaIterator se llevo a cabo la funciones para recorrer los mangas uno a uno.
 
+
 ### 4. Porque se utilizo Bridge
 - **Dónde**: En cliente y MetodoEnvio y en MetodoEnvio salieron 2 clases extras como las cuales son EnvioFisico y EnvioCorreo
 - **Por qué**: Separar el cliente de las diferentes formas de envío (físico o electrónico).
+
+
+### Aca se adjunta una Imagen del Funcionamiento de la tienda 
+
+![Image Alt](https://github.com/TheSebita122/Evaluacion-3-de-Patrones/blob/a78ff89babd08e1e4c2eca333331ee01a1bcd45b/Funcionamiento%20de%20La%20Tienda%20de%20Mangas.png)
+
