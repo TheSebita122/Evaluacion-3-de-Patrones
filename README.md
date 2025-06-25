@@ -1,6 +1,6 @@
 # Seba Mangas
 
-## 📌 Explicación del sistema
+##  Explicación del sistema
 
 En este sistema simula una pequea tienda de mangas. Se Permite:
 - Mostrar mangas disponibles el cual se utiliza el patron de diseño iterator
@@ -10,7 +10,7 @@ En este sistema simula una pequea tienda de mangas. Se Permite:
 
 
 
-##  🧠 El problema que se resuelve 
+##   El problema que se resuelve 
 
 Se requiere una estructura modular y extensible para este sea más facil de manejar:
 -Una unica instancia de la tienda (esta se instancia con Singleton)
@@ -21,7 +21,7 @@ Se requiere una estructura modular y extensible para este sea más facil de mane
 ---
 
 
-### 💡 Pequeña justificacion
+###  Pequeña justificacion
 
 ### 1. Porque se utiliza Singleton
 - **Por qué**: Porque al final de la cosas como la tienda de manga es una unica instancia tome la decision de usar el singleton y era la mas rapida y facil.
